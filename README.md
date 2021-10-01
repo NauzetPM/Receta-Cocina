@@ -7,3 +7,4 @@ Después cree la etiqueta < Ingredientes_Cantidad > para especificar que se nece
 Y qui dejo el XML que relice con la receta
 
 
+![Captura](https://user-images.githubusercontent.com/91209288/135652173-3577aad0-f955-4490-ae35-3e2ae015086e.PNG)
