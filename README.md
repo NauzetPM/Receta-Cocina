@@ -1,4 +1,4 @@
-# Receta-Cocina
+# Receta Cocina
 
 Les daré los pasos para hacer una Sopa de cebollas con los ingredientes y pasos a seguir hecha en XML y los pasos para la creación de este XML.
 Lo primero que hice fue la etiqueta < Receta > continuación la etiqueta < Nombre receta  > para que se identifique que receta se va a explicar.
